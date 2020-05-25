@@ -1,0 +1,22 @@
+
+
+/* Demo Specific Styles */
+body {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 1em 0;
+}
+
+aside,
+footer,
+header,
+main {
+  background: #eaeaea;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-image {
+  width: 800px;
+}
